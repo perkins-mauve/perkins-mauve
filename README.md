@@ -10,4 +10,4 @@ this has developed into a profound interest in just about every single field of 
 
 alongside my more mentally strenuous interests, i also started, own, and run [a website with a few of my dev friends from around the world](https://512b.dev/) (if by the world we, of course, are talking about Europe and a bit of the Middle East). they're very cool people and are all in some small part responsible for my interests.
 
-(p.s., you may look at my repo-less account an think it's dodgy - all my projects are up on [my codeberg](https://codeberg.org/ufrag), not here! this account is for networking and contributions to projects hosted here)
+(p.s., you may look at my repo-less account and think it's a bit dodgy - all my projects are up on [my codeberg](https://codeberg.org/ufrag), not here! this account is for networking and contributions to projects hosted here)
