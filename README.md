@@ -14,6 +14,7 @@ alongside my more mentally strenuous interests, i also started, own, and run [a 
 
 ### tools
 in my day to day life, i use:
+* **thinkpad X390**; light, fits in my bag, 16GiB of RAM and 256GiB of SSD; works wonderfully
 * **alpine linux** on my laptop, with lxqt and openbox; it's small and pleasant
 * **vim** for text editing; no real customisation past adjusting tabulation size
 * **C99** for low-level programming; i generally use `zig cc` for compilation for its good caching
