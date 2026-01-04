@@ -27,6 +27,7 @@ in my day to day life, i use:
 a seldom-updated list of the ideas i'm currently pursuing and (hopefully) developing
 
 * heph: a toolchain built around a format which completely serialises a forth system in a full platform-agnostic manner, allowing one to write an operating system that runs at native speed on just about any processor with (at least) 16 bit addressing
+* llT: a single-file, customisable lua 5.1 preprocessor; `class (a, b) print(a, msg[1]) end` -> `function () local a, b return function (...) local msg = { ... } print(a, msg[1]) end end`
 * motex: a top-down sandbox / surrealist exploration game built with [lua](https://www.lua.org/), [LÖVE](https://love2d.org/), and my own [llecs](https://codeberg.org/ufrag/llecs)
 * rv86: a very simple real mode bootloader for x86 systems, implementing reset vector semantics similar to that of the 6502 processor
 
